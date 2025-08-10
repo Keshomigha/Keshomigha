@@ -64,8 +64,7 @@ Always eager to learn and improve my skills through practical projects.
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/keshomigha-anithsajeeve-aa0a8034b)  
-📧 **Email:** `yourname@users.noreply.github.com`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keshomigha-anithsajeeve-aa0a8034b/)  
 
 ---
 
