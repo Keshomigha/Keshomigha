@@ -29,13 +29,6 @@
 
 <br/>
 
-<!-- Snake animation eating contributions (requires GitHub Action setup) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keshomigha/Keshomigha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keshomigha/Keshomigha/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Keshomigha/Keshomigha/output/github-snake-dark.svg" />
-</picture>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════
@@ -136,7 +129,7 @@
  ║                     MY CLOUD ENGINEERING PATH                      ║
  ╠════════════════════════════════════════════════════════════════════╣
  ║                                                                    ║
- ║  [Full Stack Dev] ──► [Cloud Basics] ──► [DevOps] ──► [Cloud Eng]  ║
+ ║  [Full Stack Dev]──► [Cloud Basics] ──► [DevOps] ──► [Cloud Eng]   ║
  ║        ✅                  🔄 Now       🎯 Next        🌟 Goal   ║
  ║                                                                    ║
  ╠══════════════╦════════════════╦══════════════╦═════════════════════╣
