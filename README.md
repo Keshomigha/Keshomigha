@@ -115,16 +115,6 @@
 
 <div align="center">
 
-<br/>
-
-<!-- Stats card — bg #0d1117, electric-blue title #38BDF8, rank grade icon -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Keshomigha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=1c8fff&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started"/>
-&nbsp;
-<!-- Top languages — bg #0d1117, electric-blue title -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshomigha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
-
-<br/><br/>
-
 <!-- Streak stats — bg #0d1117, ring & fire electric-blue/orange, border #1c4fa0 -->
 <img width="72%" src="https://streak-stats.demolab.com/?user=Keshomigha&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1c4fa0&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
 
