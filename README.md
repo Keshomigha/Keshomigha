@@ -138,18 +138,6 @@
 <!-- ANIMATED GLOWING DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<br/>
-
-<!-- Trophies — nord theme, bg #0d1117 family, all rank tiers shown -->
-<img src="https://github-profile-trophy.vercel.app/?username=Keshomigha&theme=nord&no-frame=true&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
-<!-- ANIMATED GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Cloud Engineering Roadmap
 
