@@ -58,16 +58,16 @@
 
   currently_doing:
     - "🌐 Building Full Stack Web Applications"
-    - "☁️  Diving Deep into Cloud Computing"
+    - "☁️ Diving Deep into Cloud Computing"
     - "📚 Exploring DevOps & Cloud Infrastructure"
     - "🔧 Sharpening Backend & API Skills"
 
   interests:
-    - "☁️  Cloud Architecture & Engineering"
+    - "☁️ Cloud Architecture & Engineering"
     - "🌍 Scalable Distributed Systems"
     - "🔧 RESTful APIs & Microservices"
-    - "⚡  Infrastructure as Code (IaC)"
-    - "🛡️  Cloud Security"
+    - "⚡ Infrastructure as Code (IaC)"
+    - "🛡️ Cloud Security"
 
 ╚══════════════════════════════════════════════════════════════╝
 ```
