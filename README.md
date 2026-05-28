@@ -154,13 +154,13 @@
 ## 🚀 Cloud Engineering Roadmap
 
 ```
- ╔═══════════════════════════════════════════════════════════════════════╗
- ║                     MY CLOUD ENGINEERING PATH                        ║
- ╠═══════════════════════════════════════════════════════════════════════╣
- ║                                                                       ║
- ║  [Full Stack Dev] ──► [Cloud Basics] ──► [DevOps] ──► [Cloud Eng]   ║
- ║        ✅                  🔄 Now           🎯 Next        🌟 Goal   ║
- ║                                                                       ║
+ ╔════════════════════════════════════════════════════════════════════╗
+ ║                     MY CLOUD ENGINEERING PATH                      ║
+ ╠════════════════════════════════════════════════════════════════════╣
+ ║                                                                    ║
+ ║  [Full Stack Dev] ──► [Cloud Basics] ──► [DevOps] ──► [Cloud Eng]  ║
+ ║        ✅                  🔄 Now       🎯 Next        🌟 Goal   ║
+ ║                                                                    ║
  ╠══════════════╦════════════════╦══════════════╦═════════════════════╣
  ║  HTML/CSS/JS ║ AWS Essentials ║ CI/CD        ║ Cloud Architecture  ║
  ║  React       ║ Cloud Basics   ║ Docker       ║ Multi-cloud         ║
