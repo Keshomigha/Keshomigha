@@ -1,50 +1,71 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%20there!%20I'm%20a%20Cloud%20Dreamer%20☁️&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Undergraduate%20%7C%20Future%20Cloud%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" />
+<!-- Animated Header Banner — Deep space dark theme -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020510,30:0a0f2e,60:0d1b4b,100:0a3060&height=220&section=header&text=Keshomigha%20Anithsajeeve&fontSize=36&fontColor=e2f0ff&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Aspiring%20Cloud%20Engineer%20☁️&descAlignY=60&descSize=15&animation=fadeIn&stroke=1c4fa0&strokeWidth=1" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Sabaragamuwa+University+of+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+Tomorrow%2C+One+Commit+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress+🚀;Cloud+Computing+Enthusiast+☁️;Sabaragamuwa+University+of+Sri+Lanka+🇱🇰;Building+Tomorrow%2C+One+Commit+at+a+Time+💻;Future+Cloud+Engineer+🌐" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keshomigha-anithsajeeve-aa0a8034b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keshomigha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askeshomigha31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshomigha-anithsajeeve-aa0a8034b)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Keshomigha)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askeshomigha31@gmail.com)
+
+<br/>
+
+<!-- Snake animation eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keshomigha/Keshomigha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keshomigha/Keshomigha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Keshomigha/Keshomigha/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
-## ☁️ About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ☁️ `whoami`
 
 ```yaml
-name       : "Keshomigha Anithsajeeve"
-university : "Sabaragamuwa University of Sri Lanka"
-degree     : "BSc (Hons) in Software Engineering"
-location   : "Sri Lanka 🇱🇰"
-goal       : "Aspiring Cloud Engineer"
+╔══════════════════════════════════════════════════════════════╗
+║                    KESHOMIGHA ANITHSAJEEVE                   ║
+╠══════════════════════════════════════════════════════════════╣
+  name       : "Keshomigha Anithsajeeve"
+  university : "Sabaragamuwa University of Sri Lanka"
+  degree     : "BSc (Hons) in Software Engineering"
+  location   : "Sri Lanka 🇱🇰"
+  goal       : "Aspiring Cloud Engineer ☁️"
+  
+  currently_doing:
+    - "🌐 Building Full Stack Web Applications"
+    - "☁️ Diving Deep into Cloud Computing"
+    - "📚 Exploring DevOps & Cloud Infrastructure"
+    - "🔧 Sharpening Backend & API Development"
 
-currently  :
-  - "🌐 Building Full Stack Web Applications"
-  - "☁️  Exploring Cloud Computing Concepts"
-  - "📚 Deepening knowledge in DevOps & Cloud Infrastructure"
-
-interests  :
-  - "☁️  Cloud Architecture & Engineering"
-  - "🌍 Scalable Web Applications"
-  - "🔧 Backend Systems & APIs"
-  - "⚡  Infrastructure as Code"
+  interests:
+    - "☁️ Cloud Architecture & Engineering"
+    - "🌍 Scalable Distributed Systems"
+    - "🔧 RESTful APIs & Microservices"
+    - "⚡ Infrastructure as Code (IaC)"
+    - "🛡️ Cloud Security"
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🌐 Frontend
+<div align="center">
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,21 +75,26 @@ interests  :
 
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💡 Programming Languages
+### 💡 Core Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ☁️ Cloud & Tools (Learning)
+### ☁️ Cloud & DevOps (Learning)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -76,65 +102,84 @@ interests  :
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=ffffff"/>
+<br/>
+
+<!-- Stats with rank grade A+, A, B+ based on contributions -->
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Keshomigha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=1c8fff&text_color=c9d1d9&rank_icon=github&show=reviews,discussions_started"/>
+&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshomigha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8"/>
+
+<br/><br/>
+
+<!-- Streak stats — reliable service -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=Keshomigha&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1c4fa0&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Keshomigha&bg_color=0d1117&color=38BDF8&line=1c8fff&point=FB923C&area=true&area_color=1c4fa0&hide_border=true&radius=6" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=ffffff&dates=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshomigha&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FB923C&area=true&hide_border=true" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Keshomigha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Keshomigha&theme=nord&no-frame=true&no-bg=false&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
----
-
-## 🚀 My Cloud Journey
-
-```
-Current Path ──────────────────────────────────────────────────────────► Future
-
-  [Full Stack Dev]  →  [Cloud Fundamentals]  →  [DevOps]  →  [Cloud Engineer]
-        ✅                    🔄 Learning              🎯                 🌟 Goal
-```
-
-> *"The cloud is not a place, it's a way of doing IT."*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 Cloud Engineering Roadmap
+
+```
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║                     MY CLOUD ENGINEERING PATH                        ║
+ ╠═══════════════════════════════════════════════════════════════════════╣
+ ║                                                                       ║
+ ║  [Full Stack Dev] ──► [Cloud Basics] ──► [DevOps] ──► [Cloud Eng]   ║
+ ║        ✅                  🔄 Now           🎯 Next        🌟 Goal   ║
+ ║                                                                       ║
+ ╠══════════════╦════════════════╦══════════════╦═════════════════════╣
+ ║  HTML/CSS/JS ║ AWS Essentials ║ CI/CD        ║ Cloud Architecture  ║
+ ║  React       ║ Cloud Basics   ║ Docker       ║ Multi-cloud         ║
+ ║  Node/Express║ Networking     ║ Kubernetes   ║ Cloud Security      ║
+ ║  PostgreSQL  ║ IAM & Security ║ Terraform    ║ Solution Architect  ║
+ ╚══════════════╩════════════════╩══════════════╩═════════════════════╝
+```
+
+> 💬 *"The cloud is not a place — it's a way of doing IT."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keshomigha-anithsajeeve-aa0a8034b)
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keshomigha)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshomigha-anithsajeeve-aa0a8034b)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Keshomigha)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askeshomigha31@gmail.com)
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Keshomigha&color=1c8fff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Keshomigha&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-</div>
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3060,40:0d1b4b,70:0a0f2e,100:020510&height=130&section=footer&animation=fadeIn"/>
